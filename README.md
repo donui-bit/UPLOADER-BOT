@@ -32,7 +32,7 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-<a href="https://heroku.com/deploy?template=https://github.com/donui-bit/EvaMaria">
+<a href="https://heroku.com/deploy?template=https://github.com/donui-bit/UPLOADER-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 ## BOT COMMANDS
